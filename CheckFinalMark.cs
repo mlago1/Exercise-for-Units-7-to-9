@@ -31,4 +31,3 @@ public class Exercise1
             Console.WriteLine("The average is: {0}", average);
     }
 }
-
